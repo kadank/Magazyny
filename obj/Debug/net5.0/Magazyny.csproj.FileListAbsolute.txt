@@ -1,0 +1,16 @@
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\obj\Debug\net5.0\Magazyny.csproj.AssemblyReference.cache
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\obj\Debug\net5.0\Magazyny.GeneratedMSBuildEditorConfig.editorconfig
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\obj\Debug\net5.0\Magazyny.AssemblyInfoInputs.cache
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\obj\Debug\net5.0\Magazyny.AssemblyInfo.cs
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\obj\Debug\net5.0\Magazyny.csproj.CoreCompileInputs.cache
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\bin\Debug\net5.0\Magazyny.exe
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\bin\Debug\net5.0\Magazyny.deps.json
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\bin\Debug\net5.0\Magazyny.runtimeconfig.json
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\bin\Debug\net5.0\Magazyny.runtimeconfig.dev.json
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\bin\Debug\net5.0\Magazyny.dll
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\bin\Debug\net5.0\Magazyny.pdb
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\obj\Debug\net5.0\Magazyny.dll
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\obj\Debug\net5.0\ref\Magazyny.dll
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\obj\Debug\net5.0\Magazyny.pdb
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\obj\Debug\net5.0\Magazyny.genruntimeconfig.cache
+F:\Szkolne pierdoły\siszarp\Magazyny\Magazyny\obj\Debug\net5.0\refint\Magazyny.dll
